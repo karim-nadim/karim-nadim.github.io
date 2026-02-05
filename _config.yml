@@ -22,7 +22,7 @@ avatar_image: /img/Karim_Nadim-2.jpg
 
 #-------------------------------
 # Contact links
-linkedln: "https://linkedln.com/in/karim-nadim" # Add your linkedln handle
+linkedln: "https://www.linkedin.com/in/karim-nadim" # Add your linkedln handle
 github: "https://github.com/karim-nadim"  # Add your github handle
 
 paginate: 6
@@ -51,5 +51,6 @@ defaults:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
 
 
