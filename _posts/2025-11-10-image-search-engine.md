@@ -438,20 +438,6 @@ The search image, and search results are below:
 <br>
 Very impressive results!  From the 300 base-set images, these are the eight that have been deemed to be *most similar*!
 
-<br>
-Let's take a look at a second search image...
-
-**Search Image**
-<br>
-![alt text](/img/posts/search-engine-search2.jpg "Search 2: Search Image")
-<br>
-<br>
-**Search Results**
-![alt text](/img/posts/search-engine-search2-results.png "Search 2: Search Results")
-
-<br>
-Again, these have come out really well - the features from VGG16 combined with Cosine Similarity have done a great job!
-
 ___
 <br>
 # Discussion, Growth & Next Steps <a name="growth-next-steps"></a>
@@ -469,5 +455,6 @@ This was tested only in one category, we would want to test on a broader array o
 We only looked at Cosine Similarity here, it would be interesting to investigate other distance metrics.
 
 It would be beneficial to come up with a way to quantify the quality of the search results.  This could come from customer feedback, or from click-through rates on the site.
+
 
 Here we utilised VGG16. It would be worthwhile testing other available pre-trained networks such as ResNet, Inception, and the DenseNet networks.
